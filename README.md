@@ -1,4 +1,4 @@
-### My trash projects:
+### My <s>greatest projects</s> biggest failures:
 
 - [**Zegarek**](https://github.com/konradmb/zegarek) - A simple clock with millisecond resolution - _Nim, GTK 3_
 - [**PacketTracer-AppImage**](https://github.com/konradmb/PacketTracer-AppImage) - AppImage for Cisco Packet Tracer - _Python, AppImage_
